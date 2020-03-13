@@ -1,0 +1,26 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=abd8346a_002Df7d8_002D4c41_002Db955_002Dac412423fd30/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="Add_When2Integers_ShouldReturnCorrectInteger" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;Or&gt;&#xD;
+    &lt;Or&gt;&#xD;
+      &lt;Or&gt;&#xD;
+        &lt;Or&gt;&#xD;
+          &lt;TestAncestor&gt;&#xD;
+            &lt;TestId&gt;::EAB9C08C-780F-4FE2-93AC-242202009AC3::.NETCoreApp,Version=v3.1::BackendTests.CalcTests.Add_When2Integers_ShouldReturnCorrectInteger&lt;/TestId&gt;&#xD;
+          &lt;/TestAncestor&gt;&#xD;
+          &lt;TestAncestor&gt;&#xD;
+            &lt;TestId&gt;::EAB9C08C-780F-4FE2-93AC-242202009AC3::.NETCoreApp,Version=v3.1::BackendTests.QuestionsControllerTests.GetQuestions_WhenNoParameters_ReturnsAllQuestions&lt;/TestId&gt;&#xD;
+          &lt;/TestAncestor&gt;&#xD;
+        &lt;/Or&gt;&#xD;
+        &lt;TestAncestor&gt;&#xD;
+          &lt;TestId&gt;::EAB9C08C-780F-4FE2-93AC-242202009AC3::.NETCoreApp,Version=v3.1::BackendTests.QuestionsControllerTests.GetQuestion_WhenQuestionNotFound_Returns404&lt;/TestId&gt;&#xD;
+        &lt;/TestAncestor&gt;&#xD;
+      &lt;/Or&gt;&#xD;
+      &lt;TestAncestor&gt;&#xD;
+        &lt;TestId&gt;::EAB9C08C-780F-4FE2-93AC-242202009AC3::.NETCoreApp,Version=v3.1::BackendTests.QuestionsControllerTests.GetQuestion_WhenHaveSearchParameters_ReturnCorrectQuestions&lt;/TestId&gt;&#xD;
+      &lt;/TestAncestor&gt;&#xD;
+    &lt;/Or&gt;&#xD;
+    &lt;TestAncestor&gt;&#xD;
+      &lt;TestId&gt;::EAB9C08C-780F-4FE2-93AC-242202009AC3::.NETCoreApp,Version=v3.1::BackendTests.QuestionsControllerTests&lt;/TestId&gt;&#xD;
+    &lt;/TestAncestor&gt;&#xD;
+  &lt;/Or&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
